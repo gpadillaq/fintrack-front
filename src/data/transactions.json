@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Salary",
+      "amount": 5000,
+      "type": "income",
+      "minimumAmount": 10,
+      "paymentFrecuency": "monthly",
+      "startDate": "2021-01-01"
+    },
+    {
+      "id": 2,
+      "description": "Rent",
+      "amount": 1000,
+      "type": "expense",
+      "minimumAmount": 10,
+      "paymentFrecuency": "monthly",
+      "startDate": "2021-01-01"
+    },
+    {
+      "id": 3,
+      "description": "Groceries",
+      "amount": 200,
+      "type": "expense",
+      "minimumAmount": 10,
+      "paymentFrecuency": "weekly",
+      "startDate": "2021-01-01"
+    },
+    {
+      "id": 4,
+      "description": "Netflix",
+      "amount": 10,
+      "type": "expense",
+      "minimumAmount": 10,
+      "paymentFrecuency": "monthly",
+      "startDate": "2021-01-01"
+    }
+  ]
+}
